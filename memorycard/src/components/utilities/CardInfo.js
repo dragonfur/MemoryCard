@@ -26,7 +26,7 @@ const allInfo = [
         id: uuid()
     },
     {
-        name: 'CHICKEN INASAL',
+        name: 'INASAL',
         src: ChickenInasal,
         id: uuid()
     },

@@ -4,10 +4,10 @@ const Score = ({ currentScore, bestScore }) => {
     return (
         <div style={ScoreboardStyle}>
             <div style={DisplayScoresStyle}>
-                <div className="currentScore" style={CurrentScoreStyle}>
+                <div className="currentScore" style={ScoreStyle}>
                     Score: {currentScore}
                 </div>
-                <div className='bestScore' style={BestScoreStyle}>
+                <div className='bestScore' style={ScoreStyle}>
                     Best: {bestScore}
                 </div>
             </div>
@@ -18,25 +18,19 @@ const Score = ({ currentScore, bestScore }) => {
 const ScoreboardStyle = {
     display: 'flex',
     justifyContent: 'center',
-    gap: '2rem'
+    paddingTop: '1rem',
 }
 
 const DisplayScoresStyle = {
     display: 'flex',
     width: '25vw',
     justifyContent: 'space-evenly',
+    gap: '2rem',
 }
 
-const CurrentScoreStyle = {
-    padding: '1rem',
-    paddingBottom: '0',
-    fontSize: '3vh'
-}
-
-const BestScoreStyle = {
-    padding: '1rem',
-    paddingBottom: '0',
-    fontSize: '3vh'
+const ScoreStyle = {
+    fontSize: '1.5em',
+    textAlign: 'center'
 }
 
 export default Score

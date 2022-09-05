@@ -4,7 +4,7 @@ const Header = () => {
     return (
         <header style={headerStyle}>
             <h1>
-                Memory Game
+                Memory Game - Filipino Food Edition
             </h1>
         </header>
     )
@@ -12,9 +12,11 @@ const Header = () => {
 
 const headerStyle = {
     height: '10vh',
-    backgroundColor: '#ECCCB2',
     display: 'flex',
     alignItems: 'center',
+    justifyContent: 'center',
+    textAlign: 'center',
+    backgroundColor: '#54BAB9'
 }
 
 export default Header

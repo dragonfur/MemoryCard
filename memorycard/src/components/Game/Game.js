@@ -9,13 +9,9 @@ const Game = ({ cards, onclick }) => {
 }
 
 const ContainerStyle = {
-    display: 'grid',
-    gridTemplateColumns: 'repeat(6, 1fr)',
-}
-
-const DivStyle = {
-    display: 'flex',
     justifyContent: 'center',
+    display: 'grid',
+    gridTemplateColumns: 'repeat(auto-fit, minmax(240px, 290px))',
 }
 
 export default Game
