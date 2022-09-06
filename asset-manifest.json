@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.80029ea1.css",
-    "main.js": "/react-gh-pages/static/js/main.b1e798bb.js",
-    "static/media/adobo.jpg": "/react-gh-pages/static/media/adobo.de4da7dfe8db09ac53da.jpg",
-    "static/media/dinuguan.png": "/react-gh-pages/static/media/dinuguan.805ae79a0eacd2c2122c.png",
-    "static/media/porksisig.jpg": "/react-gh-pages/static/media/porksisig.45f6aee335812da97d1e.jpg",
-    "static/media/longganisa.jpg": "/react-gh-pages/static/media/longganisa.92eb583ad3eb41e12359.jpg",
-    "static/media/kinilaw.jpg": "/react-gh-pages/static/media/kinilaw.6e95b499cb900295d8cf.jpg",
-    "static/media/chicken-inasal.jpg": "/react-gh-pages/static/media/chicken-inasal.072ce5ce9556046f0fe1.jpg",
-    "static/media/pancit.jpg": "/react-gh-pages/static/media/pancit.c699c5a5d1148f266b22.jpg",
-    "static/media/pinakbet.jpg": "/react-gh-pages/static/media/pinakbet.8b1bf05e25667b0c12d6.jpg",
-    "static/media/sinigang.jpg": "/react-gh-pages/static/media/sinigang.31ddc091129e0f1a1d6b.jpg",
-    "static/media/leche-flan.jpg": "/react-gh-pages/static/media/leche-flan.548db02e82c956c07641.jpg",
-    "static/media/lumpia.jpg": "/react-gh-pages/static/media/lumpia.94ed144761596f4bf5c2.jpg",
-    "static/media/kare-kare.jpg": "/react-gh-pages/static/media/kare-kare.e5144a13b28f3c53a254.jpg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.80029ea1.css.map": "/react-gh-pages/static/css/main.80029ea1.css.map",
-    "main.b1e798bb.js.map": "/react-gh-pages/static/js/main.b1e798bb.js.map"
+    "main.css": "/MemoryCard/static/css/main.80029ea1.css",
+    "main.js": "/MemoryCard/static/js/main.911b4eeb.js",
+    "static/media/adobo.jpg": "/MemoryCard/static/media/adobo.de4da7dfe8db09ac53da.jpg",
+    "static/media/dinuguan.png": "/MemoryCard/static/media/dinuguan.805ae79a0eacd2c2122c.png",
+    "static/media/porksisig.jpg": "/MemoryCard/static/media/porksisig.45f6aee335812da97d1e.jpg",
+    "static/media/longganisa.jpg": "/MemoryCard/static/media/longganisa.92eb583ad3eb41e12359.jpg",
+    "static/media/kinilaw.jpg": "/MemoryCard/static/media/kinilaw.6e95b499cb900295d8cf.jpg",
+    "static/media/chicken-inasal.jpg": "/MemoryCard/static/media/chicken-inasal.072ce5ce9556046f0fe1.jpg",
+    "static/media/pancit.jpg": "/MemoryCard/static/media/pancit.c699c5a5d1148f266b22.jpg",
+    "static/media/pinakbet.jpg": "/MemoryCard/static/media/pinakbet.8b1bf05e25667b0c12d6.jpg",
+    "static/media/sinigang.jpg": "/MemoryCard/static/media/sinigang.31ddc091129e0f1a1d6b.jpg",
+    "static/media/leche-flan.jpg": "/MemoryCard/static/media/leche-flan.548db02e82c956c07641.jpg",
+    "static/media/lumpia.jpg": "/MemoryCard/static/media/lumpia.94ed144761596f4bf5c2.jpg",
+    "static/media/kare-kare.jpg": "/MemoryCard/static/media/kare-kare.e5144a13b28f3c53a254.jpg",
+    "index.html": "/MemoryCard/index.html",
+    "main.80029ea1.css.map": "/MemoryCard/static/css/main.80029ea1.css.map",
+    "main.911b4eeb.js.map": "/MemoryCard/static/js/main.911b4eeb.js.map"
   },
   "entrypoints": [
     "static/css/main.80029ea1.css",
-    "static/js/main.b1e798bb.js"
+    "static/js/main.911b4eeb.js"
   ]
 }
